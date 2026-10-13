@@ -1,0 +1,6 @@
+# Codex Shell Mirror — 开机自启（把下面 Exec 的路径改成实际路径）
+[Desktop Entry]
+Type=Application
+Name=Codex Shell Mirror
+Exec=python3 /path/to/codex_shell_mirror.py
+X-GNOME-Autostart-enabled=true

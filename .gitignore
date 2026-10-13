@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+codex_shell_mirror.log
+codex_shell_mirror_state.json
+.DS_Store
